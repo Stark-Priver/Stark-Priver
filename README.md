@@ -6,8 +6,10 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: Everything that is Thought can be Programmed
 - ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-  [🌱](https://discord.com/users/1277907842132873254)
-
+  [Discord Profile](https://discord.com/users/1277907842132873254)
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+   [Linkedin Profile](https://www.linkedin.com/in/privatus-cosmas)
+  
 
 <!---
 Stark-Priver/Stark-Priver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
