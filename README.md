@@ -9,8 +9,9 @@
   [Discord Profile](https://discord.com/users/1277907842132873254)
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
    [Linkedin Profile](https://www.linkedin.com/in/privatus-cosmas)
+  ![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+  [Telegram Profile](https://www.t.me/Priver_deprince)
   
-
 <!---
 Stark-Priver/Stark-Priver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
