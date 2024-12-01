@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Privertus Cosmas**, a passionate innovator and technologist. I'm the **founder of [Pritech Vior Camp](#-pritech-vior-camp)**, a one-of-a-kind technological camp designed to empower individuals with cutting-edge skills and creativity. My mission is to inspire and guide the next generation of tech enthusiasts in exploring, learning, and innovating!
+Hi, I'm **Privertus Cosmas**, a passionate innovator and technologist. I'm the **founder of [Pritech Vior ](#-pritech-vior-)**, a one-of-a-kind technological camp designed to empower individuals with cutting-edge skills and creativity. My mission is to inspire and guide the next generation of tech enthusiasts in exploring, learning, and innovating!
 
 ---
 
