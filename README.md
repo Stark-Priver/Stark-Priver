@@ -1,6 +1,6 @@
 # 🌟 Privertus Cosmas | Founder of Pritech Vior Camp 🌟
 
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow%20Me&style=social)](https://github.com/YourUsername)
+[![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow%20Me&style=social)](https://github.com/Stark-Priver)
 [![Twitter](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YourLinkedInProfile)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/YourChannelID?label=Subscribe&style=social)](https://www.youtube.com/channel/YourChannelID)
@@ -36,9 +36,9 @@ Pritech Vior Camp is more than a camp—it's a revolution in technological educa
 |------------|----------------------------------------------------------------------|
 | 🌐 Website | [www.pritechviorcamp.com](https://www.pritechviorcamp.com)           |
 | 🐦 Twitter | [@PritechVior](https://twitter.com/PritechVior)                      |
-| 📸 Instagram | [@PritechViorCamp](https://instagram.com/PritechViorCamp)          |
-| 🎥 YouTube  | [Pritech Vior Camp Channel](https://www.youtube.com/YourChannelID)  |
-| 🔗 LinkedIn | [Pritech Vior Camp](https://linkedin.com/company/pritech-vior-camp) |
+| 📸 Instagram | [@PritechVior](https://instagram.com/PritechVior)          |
+| 🎥 YouTube  | [Pritech Vior Channel](https://www.youtube.com/YourChannelID)  |
+| 🔗 LinkedIn | [Pritech Vior ](https://linkedin.com/company/pritech-vior) |
 
 ---
 
@@ -64,9 +64,9 @@ Pritech Vior Camp is more than a camp—it's a revolution in technological educa
 
 Feel free to reach out to me:
 
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YourLinkedInProfile)
+- **Email:** [priverdeprince@yahoo.com](mailto:priverdeprince@yahoo.com)
+- **Twitter:** [@pritechvior](https://twitter.com/YourTwitterHandle)
+- **LinkedIn:** [Privatus Cosmas](https://linkedin.com/in/PrivatusCosmas)
 
 ---
 
