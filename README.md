@@ -1,9 +1,9 @@
 # 🌟 Privertus Cosmas | Founder of Pritech Vior Camp 🌟
 
 [![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow%20Me&style=social)](https://github.com/Stark-Priver)
-[![Twitter](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YourLinkedInProfile)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/YourChannelID?label=Subscribe&style=social)](https://www.youtube.com/channel/YourChannelID)
+[![Twitter](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/pritechvior)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/PrivatusCosmas)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/YourChannelID?label=Subscribe&style=social)](https://www.youtube.com/channel/PritechVior)
 
 ---
 
