@@ -50,12 +50,6 @@ Pritech Vior Camp is more than a camp—it's a revolution in technological educa
 
 ---
 
-## 📊 My GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Stark-Priver&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stark-Priver&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## 💻 Technologies & Tools
 
