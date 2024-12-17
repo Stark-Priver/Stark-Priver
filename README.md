@@ -42,7 +42,7 @@ Pritech Vior Camp is more than a camp—it's a revolution in technological educa
 
 | Platform   | Link                                                                 |
 |------------|----------------------------------------------------------------------|
-| 🌐 Website | [www.pritechviorcamp.com](https://www.pritechviorcamp.com)           |
+| 🌐 Website | [www.pritechviorcamp.com](https://www.pritechvior.site)           |
 | 🐦 Twitter | [@PritechVior](https://twitter.com/PritechVior)                      |
 | 📸 Instagram | [@PritechVior](https://instagram.com/PritechVior)          |
 | 🎥 YouTube  | [Pritech Vior Channel](https://www.youtube.com/YourChannelID)  |
