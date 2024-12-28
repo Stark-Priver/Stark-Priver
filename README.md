@@ -49,10 +49,6 @@ Pritech Vior Camp is more than a camp—it's a revolution in technological educa
 | 🔗 LinkedIn | [Pritech Vior ](https://linkedin.com/company/pritech-vior) |
 
 ---
-<iframe title="3D Model" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" 
-        src="https://sketchfab.com/models/ef7bbefab0264a05aad5c8e7ed743173/embed" 
-        width="640" height="480"></iframe>
-
 
 
 ## 💻 Technologies & Tools
